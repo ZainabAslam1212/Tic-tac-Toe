@@ -14,3 +14,4 @@ int main()
     printf("length of %s is %d",s,strlen(s));
     return 0;
 }
+//changeeeeewuhoooo
